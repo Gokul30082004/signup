@@ -1,0 +1,50 @@
+body
+{
+  font-family:arial;
+  background-color:#f1f1f1;
+}
+.whole-form
+{
+  display:flex;
+  background-color:white;
+  border-radius:30px;
+  margin-left:200px;
+  margin-right:200px;
+  margin-top:8%;
+  justify-content:center;
+}
+.Form input
+{
+  border: transparent;
+  border-radius:5px;
+  color:black;
+  line-height:2;
+  width: 200px;
+  background-color:#f1f1f1;
+}
+.Button
+{
+  margin-left:55px;
+  line-height:2;
+  width:70px;
+  background-color:blue;
+  border-radius:7px;
+  border-color:blue;
+  color:white;
+  opacity:0.8;
+  border: transparent;
+}
+.eye
+{
+  width:2px;
+  height:1px;
+  color:blue;
+  background-color:#f1f1f1;
+  border-radius:7px;
+  border-color:#f1f1f1;
+  margin-bottom: 20px;
+  margin-left:-35px;
+  border:transparent;
+}
+
+
